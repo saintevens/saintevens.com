@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#f4f0e6"/>
+  <rect x="0.5" y="0.5" width="31" height="31" fill="none" stroke="#1f4e79"/>
+  <path d="M4 4h8M4 4v8M28 28h-8M28 28v-8" fill="none" stroke="#1f4e79" stroke-width="1.5"/>
+  <rect x="4" y="25" width="6" height="3" fill="#9d342c"/>
+  <text x="16" y="21" text-anchor="middle" font-family="Menlo, ui-monospace, monospace" font-size="13" font-weight="700" fill="#1a2330">SE</text>
+</svg>
